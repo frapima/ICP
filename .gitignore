@@ -1,0 +1,7 @@
+
+.DS_Store
+/Entornos/
+*.pdf
+**/.ipynb_checkpoints
+*.zip
+**/common_access_log.txt

@@ -1,0 +1,8 @@
+Miguel;{(licenciado,1999),(diplomado,1997)};[cargo#director,depto#compras,oficina#Madrid]
+Juana;{(licenciado,2010),(diplomado,2008)};[cargo#ayudante,depto#gestion,oficina#Valencia]
+Martin;{(diplomado,2000)};[cargo#subdirector,depto#investigacion,oficina#Barcelona]
+Miriam;{(diplomado,1990)};[cargo#secretario,depto#desarrollo,oficina#Sevilla]
+Antonio;{(diplomado,1989)};[cargo#tecnico,depto#mantenimiento,oficina#Madrid]
+Elisa;{(diplomado,2015)};[cargo#tecnico,depto#gestion,oficina#Valencia]
+Manuel;{(diplomado,2014)};[cargo#tecnico,depto#mantenimiento,oficina#Barcelona]
+Teresa;{(diplomado,1995)};[cargo#tecnico,depto#desarrollo,oficina#Sevilla]
