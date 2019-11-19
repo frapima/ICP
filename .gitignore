@@ -5,3 +5,4 @@
 **/.ipynb_checkpoints
 *.zip
 **/common_access_log.txt
+*.tsv
