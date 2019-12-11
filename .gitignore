@@ -7,3 +7,5 @@
 **/common_access_log.txt
 *.tsv
 *.jar
+*.log
+**/metastore_db
