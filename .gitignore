@@ -9,3 +9,6 @@
 *.jar
 *.log
 **/metastore_db
+*.crc
+**/checkpoint/**
+*.docx
